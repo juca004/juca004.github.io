@@ -9,9 +9,10 @@
   </head>
 
   <body>
-  <nav>
+  <nav class="nav-extended">
     <div class="nav-wrapper light-blue accent-4">
       <a href="#" class="brand-logo"><img class="circle" src="img/logo.png" width="60" height="63"></a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="index.html">Home</a></li>
         <li><a href="skillset.html">Skill Set</a></li>
@@ -22,9 +23,17 @@
     </div>
   </nav>
 
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="skillset.html">Skill Set</a></li>
+    <li><a href="experience.html">Experience</a></li>
+    <li><a href="education.html">Education</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+
   <h4 class="center" >Juan Carlos Flores García</h4>
   <center>
-    <a href="#" class="logo"><img class="circle" src="img/logo1.jpg" width="100" height="100"></a>
+    <a href="#" class="logo"><img class="circle" src="img/logo1.jpg" width="300" height="300"></a>
   </center>
   <h5 class="center">Dregree Sience of Computing </h5>
   <p>Me considero un profesionista con una alta motivacion de objetivos, responsable, trabajo en equipo, honesto<br>
@@ -73,6 +82,6 @@
          </div>
        </footer>
   </body>
-
+  <script type="text/javascript" src="menu.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
 </html>
