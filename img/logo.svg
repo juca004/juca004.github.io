@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="208" height="238" version="1.1" viewBox="0 0 55.033 62.971" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(-34.376 -79.258)">
-  <g transform="translate(1.2713 -1.2945)" stroke="#000" stroke-width=".26458px">
-   <path d="m56.292 84.5 4.3301 2.5 4.3301-2.5-4.3301-2.5z" fill="#08a"/>
-   <path d="m56.292 84.5v35l4.3301 2.5 4.3301-2.5v-35l-4.3301 2.5z" fill="#006680"/>
-   <path d="m60.622 87v35" fill="none"/>
-   <g fill="#08a">
-    <path d="m47.631 89.5 4.3301 2.5-12.99 7.5-4.3301-2.5z"/>
-    <path d="m69.282 92 4.3301-2.5 12.99 7.5-4.3301 2.5z"/>
-    <path d="m60.622 132 17.32-10 4.3301 2.5-21.651 12.5-21.651-12.5 4.3301-2.5z"/>
-   </g>
-   <g fill="#006680">
-    <path d="m51.962 92v5l-8.6603 5v20l-4.3301 2.5v-25z"/>
-    <path d="m34.641 97 4.3301 2.5v25l21.651 12.5v5l-25.981-15v-30l4.3301 2.5"/>
-    <path d="m69.282 92v5l8.6602 5v20l4.3301 2.5v-25z"/>
-    <path d="m60.622 137v5l25.981-15v-30l-4.3301 2.5v25z"/>
-   </g>
-  </g>
- </g>
+<svg width="238" height="238" version="1.1" viewBox="0 0 55.033 62.971" xmlns="http://www.w3.org/2000/svg">
+
+<rect x="0" y="0" width="238" height="238" stroke="none" fill="white"/>
+
+   <path d="m24.292 4.5 4.3301 2.5 4.3301-2.5-4.3301-2.5z" fill="#08a" stroke="#000" stroke-width=".26458px"/>
+   <path d="m24.292 4.5v35l4.3301 2.5 4.3301-2.5v-35l-4.3301 2.5z" fill="#006680" stroke="#000" stroke-width=".26458px"/>
+   <path d="m28.622 7v35" fill="none" stroke="#000" stroke-width=".26458px"/>
+
+    <path d="m15.631 9.5 4.3301 2.5-12.99 7.5-4.3301-2.5z" fill="#08a" stroke="#000" stroke-width=".26458px"/>
+    <path d="m37.282 12 4.3301-2.5 12.99 7.5-4.3301 2.5z" fill="#08a" stroke="#000" stroke-width=".26458px"/>
+    <path d="m28.622 52 17.32-10 4.3301 2.5-21.651 12.5-21.651-12.5 4.3301-2.5z" fill="#08a" stroke="#000" stroke-width=".26458px"/>
+
+    <path d="m19.962 12v5l-8.6603 5v20l-4.3301 2.5v-25z" fill="#006680" stroke="#000" stroke-width=".26458px"/>
+    <path d="m2.641 17 4.3301 2.5v25l21.651 12.5v5l-25.981-15v-30l4.3301 2.5" fill="#006680" stroke="#000" stroke-width=".26458px"/>
+    <path d="m37.282 12v5l8.6602 5v20l4.3301 2.5v-25z" fill="#006680" stroke="#000" stroke-width=".26458px"/>
+    <path d="m28.622 57v5l25.981-15v-30l-4.3301 2.5v25z" fill="#006680" stroke="#000" stroke-width=".26458px"/>
 </svg>
