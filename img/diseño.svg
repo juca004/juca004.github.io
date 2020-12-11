@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="68.701" height="61.549" version="1.1" viewBox="0 0 18.177 16.285" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-56.679 -85.506)" stroke="#000">
+  <g fill="none">
+   <rect x="56.914" y="85.741" width="17.708" height="13.281" ry="1.1067" stroke-linecap="round" stroke-linejoin="round" stroke-width=".46954"/>
+   <rect x="58.471" y="87.298" width="14.593" height="8.8381" ry=".55238" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34773"/>
+   <g>
+    <path d="m65.77 99.024v2.2134" stroke-width="2.2135"/>
+    <path d="m61.343 101.24h8.8538" stroke-width="1.1067"/>
+    <path d="m58.991 88.76h13.557" stroke-width=".21789"/>
+   </g>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".048963">
+   <circle cx="59.693" cy="88.02" r=".21761"/>
+   <circle cx="60.616" cy="87.989" r=".21761"/>
+   <circle cx="61.584" cy="87.989" r=".21761"/>
+  </g>
+  <g fill="none">
+   <rect x="59.552" y="89.526" width="1.4233" height="1.4233" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26997"/>
+   <path d="m62.964 89.538h9.0907" stroke-dasharray="1.71293184, 0.57097728" stroke-width=".28549"/>
+   <g>
+    <path d="m62.742 91.417h6.7298" stroke-width=".34736"/>
+    <path d="m64.125 92.213h3.5393" stroke-width=".23157"/>
+    <rect x="59.108" y="93.833" width="13.319" height="1.0181" stroke-linecap="round" stroke-linejoin="round" stroke-width=".28947"/>
+   </g>
+  </g>
+ </g>
+</svg>
