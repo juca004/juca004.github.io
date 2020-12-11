@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="69.067" height="61.869" version="1.1" viewBox="0 0 18.274 16.369" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-89.893 -118.73)" stroke="#000">
+  <g fill="none">
+   <rect x="90.129" y="118.96" width="17.802" height="13.352" ry="1.1126" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47205"/>
+   <rect x="91.694" y="120.53" width="14.671" height="8.8852" ry=".55533" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34958"/>
+   <g>
+    <path d="m99.029 132.31v2.2253" stroke-width="2.2253"/>
+    <path d="m94.578 134.54h8.901" stroke-width="1.1126"/>
+    <path d="m91.722 121.99h14.551" stroke-width=".22633"/>
+   </g>
+   <path d="m102.27 125.76a3.0237 3.0237 0 0 1-2.0958 2.8778 3.0237 3.0237 0 0 1-3.3821-1.1116 3.0237 3.0237 0 0 1 0.0201-3.56 3.0237 3.0237 0 0 1 3.3944-1.0733" stroke-linecap="round" stroke-linejoin="round" stroke-width=".35495"/>
+  </g>
+  <path d="m101.14 123.95-1.5033-0.59853 1.27-1.0026z" stroke-dasharray="5.65339024, 0.23555793" stroke-linecap="round" stroke-linejoin="round" stroke-width=".23556"/>
+  <g transform="matrix(.090081 .0083466 -.0083466 .090081 70.952 141.03)" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229">
+   <path d="m280.05-218.12a7.9106 7.5855 0 0 0-1.9988 0.25114l2.0717 2.2123a3.959 3.959 0 0 1 0.42632 0.38862 3.959 3.959 0 0 1-0.18343 5.5955 3.959 3.959 0 0 1-5.2498 0.13851l-0.0822 0.077-2.6665-2.8474a7.9106 7.5855 0 0 0-0.22788 1.7699 7.9106 7.5855 0 0 0 7.9106 7.5856 7.9106 7.5855 0 0 0 7.9106-7.5856 7.9106 7.5855 0 0 0-7.9106-7.5856z" stroke-dasharray="31.74999791, 1.32291658"/>
+   <path d="m312.33-174.9a7.9106 7.5855 0 0 0 1.9988-0.2511l-2.0717-2.2123a3.959 3.959 0 0 1-0.42632-0.3886 3.959 3.959 0 0 1 0.18343-5.5955 3.959 3.959 0 0 1 5.2498-0.1385l0.0822-0.077 2.6665 2.8474a7.9106 7.5855 0 0 0 0.22788-1.7699 7.9106 7.5855 0 0 0-7.9106-7.5856 7.9106 7.5855 0 0 0-7.9106 7.5856 7.9106 7.5855 0 0 0 7.9106 7.5855z" stroke-dasharray="31.74999798, 1.32291658"/>
+   <rect transform="rotate(-48.385)" x="340.82" y="77.24" width="5.2015" height="27.958" stroke-dasharray="31.7499984, 1.3229166"/>
+  </g>
+  <g transform="matrix(.12097 0 0 .12097 67.144 148.31)" fill="#fff" stroke-dasharray="25.39999911, 1.0583333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0583">
+   <rect transform="rotate(-38.975)" x="302.26" y="18.678" width="15.336" height="6.2852"/>
+   <rect transform="rotate(-38.975)" x="317.59" y="20.701" width="20.313" height="2.1453"/>
+   <rect transform="rotate(-38.975)" x="338.1" y="20.376" width="5.6426" height="2.8702"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".049544">
+   <circle cx="92.503" cy="121.24" r=".2202"/>
+   <circle cx="93.436" cy="121.21" r=".2202"/>
+   <circle cx="94.416" cy="121.21" r=".2202"/>
+  </g>
+ </g>
+</svg>

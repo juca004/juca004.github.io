@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="69.081" height="61.89" version="1.1" viewBox="0 0 18.278 16.375" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-74.016 -95.289)" stroke="#000">
+  <g fill="none">
+   <rect x="74.252" y="95.525" width="17.806" height="13.354" ry="1.1129" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47214"/>
+   <rect x="75.818" y="97.091" width="14.674" height="8.887" ry=".55544" stroke-linecap="round" stroke-linejoin="round" stroke-width=".34965"/>
+   <path d="m83.155 108.88v2.2257" stroke-width="2.2257"/>
+   <path d="m78.703 111.11h8.9028" stroke-width="1.1129"/>
+   <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".21754">
+    <ellipse cx="77.497" cy="100.01" rx=".62154" ry=".62154"/>
+    <ellipse cx="77.482" cy="102.2" rx=".62154" ry=".62154"/>
+    <ellipse cx="77.482" cy="104.35" rx=".62154" ry=".62154"/>
+   </g>
+   <path d="m76.339 98.56h13.632" stroke-width=".21909"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".049234">
+   <circle cx="77.047" cy="97.816" r=".21882"/>
+   <circle cx="77.974" cy="97.785" r=".21882"/>
+   <circle cx="78.948" cy="97.785" r=".21882"/>
+  </g>
+  <g fill="none">
+   <g stroke-width=".22727">
+    <path d="m77.41 100.12 0.97374-0.97374"/>
+    <path d="m77.41 102.26 0.97375-0.97373"/>
+    <path d="m77.507 104.4 0.97374-0.97373"/>
+   </g>
+   <g stroke-width=".24344">
+    <path d="m79.391 99.608h8.5882" stroke-dasharray="5.84247107, 0.2434363"/>
+    <path d="m79.379 100.23h8.5882" stroke-dasharray="1.94749036, 0.2434363"/>
+    <path d="m79.277 101.63h8.5882" stroke-dasharray="5.84247109, 0.2434363"/>
+   </g>
+   <g stroke-dasharray="1.94749036, 0.2434363" stroke-width=".24344">
+    <path d="m79.265 102.26h8.5882"/>
+    <path d="m79.159 103.72h5.8475"/>
+    <path d="m79.151 104.35h5.8475"/>
+   </g>
+   <ellipse cx="87.768" cy="104.18" rx="1.2431" ry="1.2431" stroke-linecap="round" stroke-linejoin="round" stroke-width=".24344"/>
+   <path d="m87.032 104.15 0.42929 0.48296 0.8586-1.1269" stroke-width=".24344"/>
+  </g>
+ </g>
+</svg>
