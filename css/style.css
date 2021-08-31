@@ -3,7 +3,59 @@
     height: 760px;
 }
 
+
 .navegacion > a > img{
     margin-top: 30px;
     margin-left: 50px;
+}
+
+.navegacion > ul{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -160px;
+}
+
+.navegacion > ul >li{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style: none;
+    margin-right: 20px;
+    display: inline;
+}
+
+.navegacion > ul >li >a{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    text-transform: capitalize;
+    margin-top: 150px;
+    margin-bottom: 3px !important;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-top: 3px !important;
+}
+
+button{
+    text-transform: capitalize;
+    margin-left: 45%;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: #00cfeeff;
+    color: white;
 }
