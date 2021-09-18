@@ -49,13 +49,31 @@ h2{
 }
 
 button{
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-left: 45%;
-    width: 150px;
+    width: 180px;
     height: 40px;
     font-size: 20px;
     border-radius: 20px;
     border: none;
-    background-color: #00cfeeff;
+    background-color: #3498DB ;
     color: white;
+}
+
+button:hover{
+    background-color: #2980B9;
+    color: grey;
+}
+
+.visitas{
+    background-color: #3498DB;
+    width: auto;
+    height: 130px;
+}
+
+.visitas p{
+ margin-top: 0px;
+ padding-top: 10px;
+ color: white;
+ text-align: center;
 }
