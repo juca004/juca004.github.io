@@ -65,15 +65,33 @@ button:hover{
     color: grey;
 }
 
-.padre{
+.control{
+    display: flex;
+    justify-content: center;
     background-color: #3498DB;
     width: auto;
     height: 130px;
 }
 
-.visitas p{
- margin-top: 0px;
+.control > div > p{
+ margin-top: 15px;
  padding-top: 10px;
  color: white;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-transform: capitalize;
  text-align: center;
+ font-size: large;
+}
+
+.control > div{
+    width: 100px;
+}
+
+section{
+    display: flex;
+    margin: 100px 100px 100px 150px;
+}
+
+section > div{
+    margin-left: 100px;
 }
