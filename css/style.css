@@ -56,7 +56,7 @@ button{
     font-size: 20px;
     border-radius: 20px;
     border: none;
-    background-color: #3498DB ;
+    background-color: #00cfeeff ;
     color: white;
 }
 
@@ -68,7 +68,7 @@ button:hover{
 .control{
     display: flex;
     justify-content: center;
-    background-color: #3498DB;
+    background-color: #00cfeeff;
     width: auto;
     height: 130px;
 }
@@ -94,4 +94,39 @@ section{
 
 section > div{
     margin-left: 100px;
+}
+
+section > div >h4{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+section > div >h3{
+    text-transform: uppercase;
+    color: #00cfeeff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+}
+
+section > div >span{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+section > div > p{
+    font-size: 25px;
+}
+
+.imagenes{
+    width: 230px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.imagenes > img:first-child{
+    width: 30px;
+    height: 30px;
+    padding-top: 5px;
 }
