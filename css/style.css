@@ -36,7 +36,7 @@ h1{
     font-size: 45px;
     text-transform: capitalize;
     margin-top: 150px;
-    margin-bottom: 3px !important;
+    margin-bottom: 15px !important;
 }
 
 h2{
@@ -45,7 +45,7 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
     text-transform: capitalize;
-    margin-top: 3px !important;
+    margin-bottom: 25px !important;
 }
 
 button{
@@ -99,6 +99,7 @@ section > div{
 section > div >h4{
     text-transform: capitalize;
     text-align: center;
+    padding: 15px 0px 15px 0px;
 }
 
 section > div >h3{
@@ -108,9 +109,10 @@ section > div >h3{
     font-size: 27px;
 }
 
-section > div >span{
+section > div >h5{
     text-transform: capitalize;
     font-weight: bold;
+    padding: 20px 0px 15px 0px;
 }
 
 section > div > p{
