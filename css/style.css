@@ -132,3 +132,23 @@ section > div > p{
     height: 30px;
     padding-top: 5px;
 }
+
+.conocimientos{
+    background-color: #e6e6fa;
+    height: 450px;
+}
+
+.conocimientos h3{
+    text-transform: uppercase;
+    color: #00cfeeff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.conocimientos p{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
