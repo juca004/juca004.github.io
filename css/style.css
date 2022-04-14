@@ -164,7 +164,7 @@ section > div > p{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    gap: 10px;
+    gap: 20px;
 }
 
 .principal{
@@ -177,16 +177,19 @@ section > div > p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     text-align: center;
+    margin-top: 100px;
 }
 
 .principal h6{
     text-align: center;
     font-size: 27px;
     font-weight: normal;
+    margin-bottom: 50px;
 }
 
 .principal p{
     text-align: center;
+    font-size: 27px;
 }
 
 .planeacion{
