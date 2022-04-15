@@ -205,6 +205,10 @@ section > div > p{
     margin-bottom: 20px;
     font-family: system-ui;
 }
+.planeacion img{
+    width: 100px;
+    height: 100px;
+}
 
 .diseno{
     grid-area: 2 / 2 / 3 / 3;
@@ -213,6 +217,10 @@ section > div > p{
     font-size: 27px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.diseno img{
+    width: 100px;
+    height: 100px;
 }
 
 .programacion{
@@ -223,6 +231,10 @@ section > div > p{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.programacion img{
+    width: 100px;
+    height: 100px;
+}
 
 .soporte{
     grid-area: 3 / 2 / 4 / 3;
@@ -231,4 +243,21 @@ section > div > p{
     font-size: 27px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.soporte img{
+    width: 100px;
+    height: 100px;
+}
+
+.eslogan{
+    background-color: #00cfeeff;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eslogan p{
+    color: white;
+    font-size: 27px;
+    font-family: system-ui;
 }
