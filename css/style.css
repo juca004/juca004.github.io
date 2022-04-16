@@ -114,6 +114,13 @@ section > div >h5{
     font-weight: bold;
     padding: 20px 0px 15px 0px;
 }
+.imgcard{
+    font-family: system-ui;
+}
+
+.introduccion{
+    font-family: system-ui;
+}
 
 section > div > p{
     font-size: 25px;
