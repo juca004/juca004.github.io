@@ -322,6 +322,10 @@ section > div > p{
     height: 330px;
 }
 
+.contacto{
+    margin-bottom: 100px;
+}
+
 .contacto h3{
     text-transform: uppercase;
     font-family: system-ui;
@@ -394,3 +398,25 @@ section > div > p{
     width: 1000px;
     height: 200px;
 }
+
+.tarjeta{
+    background-color: #333333ff;
+    color: white;
+    font-family: system-ui;
+    text-align: center;
+    height: 300px;
+}
+.tarjeta h5{
+    padding-top: 50px;
+    margin-bottom: 25px;
+}
+.tarjeta table{
+    margin-left: 50px;
+}
+
+.derechos{
+    margin-top: 100px;
+}
+
+
+
