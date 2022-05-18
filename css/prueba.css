@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.estilos{
+    background-color: green;
+    width: 100%;
+    height: 500px;
+}
+
+.caja{
+    background-color: blue;
+    width: 100%;
+    height: 500px;
+}
+
+.control{
+    background-color: #00cfeeff;
+    height: 130px;
+    width: 100%;
+    color: aliceblue;
+    font-family: system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.control div:nth-child(1){
+    text-align: center;
+    margin-right: 30px;
+    text-transform: capitalize;
+    font-size: large;
+}
+
+.control div:nth-child(1) p{
+    margin-bottom: 10px;
+}
+
+.control div:nth-child(2){
+    text-align: center;
+    text-transform: capitalize;
+    font-size: large;
+}
+
+.control div:nth-child(2) p{
+    margin-bottom: 19px;
+}
