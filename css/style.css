@@ -63,12 +63,15 @@ button{
     border-radius: 20px;
     border: none;
     background-color: #00cfeeff ;
+}
+
+button a{
     color: white;
+    text-decoration: none;
 }
 
 button:hover{
     background-color: #2980B9;
-    color: grey;
 }
 
 .control{
@@ -434,5 +437,21 @@ section > div > p{
     margin-top: 100px;
 }
 
+.btn_enviar{
+    text-transform: uppercase;
+    width: 180px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: #00cfeeff;
+    color: white;
+}
 
+.btn_enviar:hover{
+    background-color: #2980B9;
+}
 
+.send{
+    margin-left: 90%;
+}

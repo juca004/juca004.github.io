@@ -24,12 +24,12 @@
       </ul>
       <h1>juan carlos flores garcía</h1>
       <h2>front-end creativo</h2>
-      <button>descargar cv</button>
+      <button><a download="JuanCarlosCV" href="document/CVjuancarlos.pdf">descargar cv</a></button>
     </div>
   </nav>
   <div class="control" id="intro">
     <div>
-      <p>3</p>
+      <p>4</p>
       <p>trabajos<br>finalizados</p>
     </div>
     <div>
@@ -123,21 +123,24 @@
   </div>
   <div class="contacto" id="contactame">
     <h3>contáctame</h3>
-    <div class="contactame">
+    <form class="contactame" action="https://formsubmit.co/f35dcb6ad7859b6e03027a6dc89eea8c" method="POST">
       <div class="nombre">
-        <label for="">nombre:</label>
-        <input type="text" placeholder="escribe tu nombre">
+        <label for="Nombre">nombre:</label>
+        <input type="text" name="Nombre" placeholder="escribe tu nombre">
       </div>
       <div class="correo">
-        <label for="">correo electrónico:</label>
-        <input type="email" placeholder="escribe tu correo electrónico">
+        <label for="Correo">correo electrónico:</label>
+        <input type="email" name="Correo" placeholder="escribe tu correo">
       </div>
       <div class="mensaje">
-        <label for="">mensaje:</label>
-        <textarea name="mensaje" id="" cols="150" rows="10">Escribe un mensaje</textarea>
+        <label for="Mensaje">mensaje:</label>
+        <textarea name="Mensaje" id="" cols="150" rows="10" placeholder="Escribe un mensaje"></textarea>
       </div>
-    </div>
-    <button>enviar</button>
+      <div class="send">
+        <input class="btn_enviar" type="submit" value="Enviar">
+      </div>
+    </form>
+    
   </div>
 
   <footer class="tarjeta">
@@ -159,7 +162,7 @@
             </thead>
           </table>
     <div class="derechos">
-         <p>© 2018 Copyright FlogarTI</p>
+         <p>© 2019 Copyright FlogarTI</p>
     </div>
   </footer>
 </body>
