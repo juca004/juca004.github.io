@@ -309,11 +309,12 @@ section > div > p{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap: 10px;
+    grid-column-gap: 10px;
+    grid-row-gap: 15px;
 }
 
 .mipagina{
-    grid-area: 1 / 1 / 2 / 3;
+    grid-area: 1 / 1 / 1 / 2;
     justify-self: center;
 }
 .mipagina img{
@@ -337,6 +338,17 @@ section > div > p{
     justify-self: center;
 }
 .notaria3 img{
+    width: 600px;
+    height: 330px;
+}
+
+.dappvene{
+    grid-area: 1 / 2 / 2 / 2;
+    width: 600px;
+    height: 330px;
+    justify-self: center;
+}
+.dappvene img{
     width: 600px;
     height: 330px;
 }
