@@ -187,6 +187,31 @@ section > div > p{
     padding-bottom: 70px;
 }
 
+.javascript{
+    width: 195px;
+    height: 195px;
+}
+
+.css3{
+    width: 195px;
+    height: 195px;
+}
+
+.html5{
+    width: 195px;
+    height: 195px;
+}
+
+.svg{
+    width: 195px;
+    height: 195px;
+}
+
+.github{
+    width: 195px;
+    height: 195px;
+}
+
 .servicios{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
