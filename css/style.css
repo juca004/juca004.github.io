@@ -1,10 +1,24 @@
+:root{
+    --scooter-50: #ebfeff;
+    --scooter-100: #cefcff;
+    --scooter-200: #a2f6ff;
+    --scooter-300: #63edfd;
+    --scooter-400: #1cdaf4;
+    --scooter-500: #00cfee;
+    --scooter-600: #0397b7;
+    --scooter-700: #0a7894;
+    --scooter-800: #126178;
+    --scooter-900: #145065;
+    --scooter-950: #063546;
+}
+
 *{
     margin: 0;
     padding: 0;
 }
 
 .navegacion{
-    background-color: #333333ff; 
+    background-color: var(--scooter-950); 
     width: 100%;
     height: 760px;
 }
@@ -31,12 +45,12 @@
 }
 
 .navegacion > ul >li >a{
-    color: white;
+    color: var(--scooter-50);
     text-decoration: none;
 }
 
 h1{
-    color: white;
+    color: var(--scooter-50);
     text-align: center;
     font-family: system-ui;
     font-size: 45px;
@@ -46,7 +60,7 @@ h1{
 }
 
 h2{
-    color: white;
+    color: var(--scooter-50);
     text-align: center;
     font-family: system-ui;
     font-size: 35px;
@@ -62,23 +76,23 @@ button{
     font-size: 20px;
     border-radius: 20px;
     border: none;
-    background-color: #00cfeeff ;
+    background-color: var(--scooter-50) ;
 }
 
 button a{
-    color: white;
+    color: var(--scooter-700);
     text-decoration: none;
 }
 
 button:hover{
-    background-color: #2980B9;
+    background-color: var(--scooter-200);
 }
 
 .control{
-    background-color: #00cfeeff;
+    background-color: var(--scooter-600);
     height: 130px;
     width: 100%;
-    color: white;
+    color: var(--scooter-50);
     font-family: system-ui;
     display: flex;
     justify-content: center;
@@ -123,7 +137,7 @@ section > div >h4{
 
 section > div >h3{
     text-transform: uppercase;
-    color: #00cfeeff;
+    color: var(--scooter-600);
     font-family: system-ui;
     font-size: 27px;
 }
@@ -160,13 +174,13 @@ section > div > p{
 }
 
 .conocimientos{
-    background-color: #e6e6fa;
+    background-color: var(--scooter-100);
     height: 600px;
 }
 
 .conocimientos h3{
     text-transform: uppercase;
-    color: #00cfeeff;
+    color: var(--scooter-600);
     font-family: system-ui;
     font-size: 30px;
     text-align: center;
@@ -228,7 +242,7 @@ section > div > p{
 
 .principal h3{
     text-transform: uppercase;
-    color: #00cfeeff;
+    color: var(--scooter-600);
     font-family: system-ui;
     font-size: 30px;
     text-align: center;
@@ -301,21 +315,21 @@ section > div > p{
 }
 
 .eslogan{
-    background-color: #00cfeeff;
+    background-color: var(--scooter-600);
     height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .eslogan p{
-    color: white;
+    color: var(--scooter-50);
     font-size: 27px;
     font-family: system-ui;
 }
 
 .proyectos h3{
     text-align: center;
-    color: #00cfeeff;
+    color: var(--scooter-600);
     text-transform: uppercase;
     font-family: system-ui;
     font-size: 27px;
@@ -385,7 +399,7 @@ section > div > p{
 .contacto h3{
     text-transform: uppercase;
     font-family: system-ui;
-    color: #00cfeeff;
+    color: var(--scooter-600);
     font-size: 27px;
     text-align: center;
     margin-top: 100px;
@@ -456,8 +470,8 @@ section > div > p{
 }
 
 .tarjeta{
-    background-color: #333333ff;
-    color: white;
+    background-color: var(--scooter-950);
+    color: var(--scooter-50);
     font-family: system-ui;
     text-align: center;
     height: 300px;
@@ -481,12 +495,12 @@ section > div > p{
     font-size: 20px;
     border-radius: 20px;
     border: none;
-    background-color: #00cfeeff;
-    color: white;
+    background-color: var(--scooter-500);
+    color: var(--scooter-50);
 }
 
 .btn_enviar:hover{
-    background-color: #2980B9;
+    background-color: var(--scooter-600);
 }
 
 .send{
