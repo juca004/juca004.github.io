@@ -23,6 +23,32 @@
         flex-direction: column;
     }
 
+    .imgcard{
+        display: flex;
+        flex-direction: column;
+        margin-left: -90px;
+    }
+
+    .imagenes{
+        width: 0px;
+    }
+    .imagenes > img{
+        color: purple;
+    }
+
+    .imgcard > a > img{
+        border-radius: 10px;
+    }
+
+    .introduccion{
+        margin-left: -50px;
+        font-size: 16px;
+    }
+
+    .introduccion > p{
+        font-size: 17px;
+    } 
+
     .conocimientos > p{
         width: 100%;
     }
