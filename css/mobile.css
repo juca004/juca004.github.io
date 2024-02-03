@@ -18,6 +18,10 @@
         height: 660px;
     }
 
+    .menu{
+        display: none;
+    }
+
     section{
         display: flex;
         flex-direction: column;
