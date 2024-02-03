@@ -49,8 +49,37 @@
         font-size: 17px;
     } 
 
+    .conocimientos{
+        height: 1700px;
+    }
+
     .conocimientos > p{
-        width: 100%;
+        width: 65%;
+    }
+
+    .javascript{
+        margin-bottom: 25px;
+    }
+
+    .css3{
+        margin-bottom: 25px;
+    }
+
+    .html5{
+        margin-bottom: 25px;
+    }
+
+    .svg{
+        margin-bottom: 25px;
+    }
+
+    .servicios{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .soporte{
+        margin-bottom: 60px;
     }
 
     .proyectos{
@@ -80,8 +109,13 @@
         height: 220px;
     }
 
+    .contactame{
+        display: flex;
+        flex-direction: column;
+    }
+
     .mensaje{
-        width: 100%;
+        width: 80%;
     }
    
   }
