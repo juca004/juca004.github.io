@@ -11,7 +11,7 @@
     --scooter-900: #145065;
     --scooter-950: #063546;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 960px) {
 
     h1 {
         font-size: 3rem;
