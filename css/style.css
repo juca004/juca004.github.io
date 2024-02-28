@@ -17,14 +17,17 @@
     padding: 0;
 }
 
-html {
+html, body {
     font-size: 1em;
+    overflow-x: hidden;
+    width: 99.98%;
   }
 
 .navegacion{
     background-color: var(--scooter-950); 
-    width: 100%;
+    max-width: 100%;
     height: 760px;
+    overflow: hidden;
 }
 
 
