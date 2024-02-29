@@ -13,6 +13,10 @@
 }
 @media screen and (max-width: 960px) {
 
+    .navegacion > a > img{
+        margin-left: 25% !important;
+    }
+
     h1 {
         font-size: 3rem;
       }
@@ -33,7 +37,7 @@
     }
 
     button{
-        margin-left: 26%;
+        margin-left: 25% !important;
     }
 
     .imgcard{
@@ -45,29 +49,26 @@
     .imagenes{
         width: 0px;
     }
-    .imagenes > img{
-        color: purple;
-    }
+    
 
     .imgcard > a > img{
         border-radius: 10px;
     }
 
     .introduccion{
-        margin-left: -50px;
-        font-size: 16px;
+        margin-left: -90px !important;
     }
 
     .introduccion > p{
-        font-size: 17px;
+        font-size: 18px;
     } 
 
     .conocimientos{
-        height: 1700px;
+        height: 1700px !important;
     }
 
     .conocimientos > p{
-        width: 65%;
+        width: 65% !important;
     }
 
     .javascript{
@@ -87,8 +88,8 @@
     }
 
     .servicios{
-        display: flex;
-        flex-direction: column;
+        display: flex !important;
+        flex-direction: column !important;
     }
 
     .soporte{
@@ -103,23 +104,24 @@
     }
 
     .mipagina > img{
-        width: 100%;
-        height: 220px;
+        width: 100% !important;
+        height: 220px !important;
     }
 
     .esquadron > img{
-        width: 100%;
-        height: 220px;
+        width: 100% !important;
+        height: 220px !important;
     }
 
     .notaria3 > img{
-        width: 60%;
-        height: 220px;
+        width: 60% !important;
+        height: 220px !important;
     }
 
     .dappvene > img{
-        width: 60%;
-        height: 220px;
+        width: 60% !important;
+        height: 220px !important;
+        margin-top: -100px !important;
     }
 
     .contactame{
@@ -128,11 +130,11 @@
     }
 
     .send{
-        margin-left: 25%;
+        margin-left: 50% !important;
     }
 
     .mensaje{
-        width: 80%;
+        width: 80% !important;
     }
    
   }
